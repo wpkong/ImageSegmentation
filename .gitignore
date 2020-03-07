@@ -1,0 +1,8 @@
+__pycache__/
+data/kaggle/
+score.py
+tensorboard/
+
+.DS_Store
+.idea/
+.CP_epoch3.pth
